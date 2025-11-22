@@ -2391,21 +2391,21 @@ v16.Home:AddButton({
     Title = "Tik Tok",
     Description = "Click(Copy)",
     Callback = function()
-        setclipboard("https://www.tiktok.com/@hnc_roblox?_t=ZS-8ywjDgNQ1ah&_r=1");
+        setclipboard("https://www.tiktok.com/");
     end
 });
 v16.Home:AddButton({
     Title = "Zalo Group",
     Description = "Click(Copy)",
     Callback = function()
-        setclipboard("https://zalo.me/g/tvdpop639");
+        setclipboard("https://zalo.me/");
     end
 });
 v16.Home:AddButton({
     Title = "Remember:",
-    Description = "This is not the real Banana Cat Hub, but a fake version made by HNC Roblox.",
+    Description = "This is not the real Banana Cat Hub, but a fake version made by Nguyen Hoang Dev Roblox.",
     Callback = function()
-        setclipboard("https://www.tiktok.com/@hnc_roblox?_t=ZS-8ywjDgNQ1ah&_r=1");
+        setclipboard("https://www.tiktok.com/");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
@@ -3577,7 +3577,7 @@ if Sea3 then
             _G.AutoFindPrehistoric = false;
             if not v513 then
                 v14:Notify({
-                    Title = "Banana Cat Hub",
+                    Title = "Liem Dai Hub",
                     Content = "Đảo Dung Nham Tìm Thấy",
                     Duration = 10
                 });
@@ -3671,7 +3671,7 @@ if Sea3 then
             _G.AutoFindMirage = false;
             if not v513 then
                 v14:Notify({
-                    Title = "Banana Cat Hub",
+                    Title = "Liem Dai Hub",
                     Content = "Đảo Bí Ẩn Tìm Thấy",
                     Duration = 10
                 });
@@ -3765,7 +3765,7 @@ if Sea3 then
             _G.AutoFindFrozen = false;
             if not v513 then
                 v14:Notify({
-                    Title = "Banana Cat Hub",
+                    Title = "Liem Dai Hub",
                     Content = "Đảo Leviathan Tìm Thấy",
                     Duration = 10
                 });
